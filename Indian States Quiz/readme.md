@@ -11,3 +11,7 @@ Can you guess all the states???
 ![image](https://user-images.githubusercontent.com/17800800/209529571-f7d0945f-0a28-4e6b-9735-0ed9a128256e.png)
 
 Give it a go...
+
+
+
+To get coordiantes on the image through Turtle refer link: https://padlet.com/parvathisaxena/ti0v9f731gs062tb/wish/2428861150
