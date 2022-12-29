@@ -28,3 +28,4 @@ This popular time management method asks you to alternate pomodoros **— focuse
 
 ![image](https://user-images.githubusercontent.com/17800800/209981991-f7d6cee2-0ad8-4a73-846f-9916839303fa.png)
 
+![image](https://user-images.githubusercontent.com/17800800/209982989-ada5fb45-4271-4867-83f7-e0dc94dd9286.png)
