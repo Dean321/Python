@@ -8,7 +8,17 @@ import pandas as pd
 
 df = pd.read_csv("nato_phonetic_alphabet.csv")
 d = {j.letter:j.code for i,j in df.iterrows()}
-# print(d)
-name = input("Enter your name here: ")
-name_list = [d[i.upper()] for i in name]
-print(name_list)
+
+
+def genNATO():
+    name = input("Enter your name here: ")
+    try:
+        name_list = [d[i.upper()] for i in name]
+    except KeyError:
+        print("Sorry only type letters please")
+        genNATO()
+    else:
+        print(name_list)
+
+
+genNATO()
